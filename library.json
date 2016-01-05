@@ -1,0 +1,12 @@
+{
+    "name": "TinkerKit",
+    "keywords": "TinkerKit",
+    "description": "Arduino library for the TinkerKit! project",
+    "repository":
+    {
+        "type": "git",
+        "url": "https://github.com/TinkerKit/TinkerKit.git"
+    },
+    "frameworks": "arduino",
+    "platforms": "atmelavr"
+}
